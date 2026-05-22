@@ -4,7 +4,7 @@
 
 Applied AI and cloud expert with 20+ years of experience delivering enterprise technology solutions, specializing in large language models, generative artificial intelligence, and modern cloud platforms; author of books about generative artificial intelligence, trainer, and public speaker.
 
-[About me](https://krakovetskyi.me/) · [Personal website](https://krakovetskyi.com)
+[About me](https://krakovetskyi.com) · [Company website](https://devrain.com)
 
 ## 🚀 What I Ship
 
@@ -17,16 +17,16 @@ Applied AI and cloud expert with 20+ years of experience delivering enterprise t
 
 ## 🏆 Awards and recognitions
 
-- **Microsoft AI Most Valuable Professional** — awarded by Microsoft to experts who make outstanding contributions to the artificial intelligence community through technical expertise, education, and innovation.
-- **Microsoft Regional Director** — a global program for trusted technology advisors and industry leaders who provide strategic guidance to enterprises and the broader technology ecosystem.
-- **20 AI Leaders of Ukraine 2025** by Forbes Ukraine — recognition among the leading experts and entrepreneurs shaping the development of artificial intelligence in Ukraine.
-- **Forbes Technology Council** — invitation-only community of senior technology executives and founders recognized for their achievements and contributions to the global technology industry.
-- **Telerik Developer Expert** — recognition for technical expertise, community leadership, and contributions to the software development ecosystem.
-- **«The Best Professional in Software Architecture»** — Ukrainian IT Awards (2013) recognition for excellence in software architecture and enterprise systems design.
+- **Microsoft AI Most Valuable Professional** — recognition for contributions to the AI community and ecosystem
+- **Microsoft Regional Director** — global program for trusted technology advisors and industry leaders
+- **20 AI Leaders of Ukraine 2025** by Forbes Ukraine — recognition among leading AI experts and entrepreneurs in Ukraine
+- **Forbes Technology Council** — invitation-only community of senior technology executives and founders
+- **Telerik Developer Expert** — recognition for technical expertise and community contributions
+- **The Best Professional in Software Architecture** — Ukrainian IT Awards (2013)
 
 ## 🛠 Tech Stack
 
-Anthropic Claude · OpenAI GPT · Google Gemini · Microsoft Azure · Microsoft Foundry · Microsoft 365 Copilot · Microsoft Agent Framework * LaTeX
+Claude · OpenAI · Gemini · Microsoft Azure · Microsoft Foundry · Microsoft 365 Copilot · Microsoft Agent Framework · LaTeX
 
 ## 📜 Certifications
 
